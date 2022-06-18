@@ -25,16 +25,19 @@ A Data Science Study aimed at performing Descriptive and Exploratory Data Analys
 ### DATASETS Collected (SOURCE):
 
 1. Monkeypox GlobalData : This table shows the overall confirmed cases in each of the nations where the virus has spread fetched from Github
-                            - ```    
-                                  https://raw.githubusercontent.com/globaldothealth/monkeypox/main/latest.csv
-                              ```   
+
+                                  
+                 https://raw.githubusercontent.com/globaldothealth/monkeypox/main/latest.csv
+                                
                               
 2. Monkeypox Cases : This set will shows the cases details about the data sets' columns and fields fetched from Kaggle
-                            - ```    
-                                  https://www.kaggle.com/deepcontractor/monkeypox-dataset-daily-updated?select=Monkey_Pox_Cases_Worldwide.csv)
-                              ```
+
+                       
+                 https://www.kaggle.com/deepcontractor/monkeypox-dataset-daily-updated?select=Monkey_Pox_Cases_Worldwide.csv
+                   
                               
-3. Monkeypox Daily Updates : The database utilised is relatively young, the dataset may include a null value. 
-                            - ```
-                                 https://raw.githubusercontent.com/Dushyant029/MonkeyPox_Data-Analysis_Visualization/main/monkeypox_daily_dataset.csv
-                              ```
+3. Monkeypox Daily Updates : The database utilised is relatively young, the dataset may include a null value.
+
+                         
+                 https://raw.githubusercontent.com/Dushyant029/MonkeyPox_Data-Analysis_Visualization/main/monkeypox_daily_dataset.csv
+
